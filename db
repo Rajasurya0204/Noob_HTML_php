@@ -1,0 +1,4 @@
+create database guvi;
+use guvi
+
+create table user(mail_id varchar(255) primary key,password text,user_name text,dob date,city text);
